@@ -1,5 +1,3 @@
-package com.java2novice;
- 
 import java.util.Stack;
  
 public class LinkedListPalindromeUsingStack {
